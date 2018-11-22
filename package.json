@@ -1,0 +1,16 @@
+{
+  "name": "json-cleaner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "event-stream": "^3.3.4",
+    "jsonlines": "^0.1.1"
+  }
+}
